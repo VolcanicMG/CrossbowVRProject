@@ -1,0 +1,3 @@
+1. Add moving targets
+2. Points get higher the longer the disance
+3. Leaderboard and instructions
